@@ -7,4 +7,5 @@ RENCANA KONTEN DEREMPE
 - PHP Framework
 - Vlogs
 - Struktur Data Dasar
--Python
+- Python
+- C++
