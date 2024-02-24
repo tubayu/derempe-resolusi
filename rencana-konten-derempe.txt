@@ -5,6 +5,7 @@ RENCANA KONTEN DEREMPE
     ^Vue
     ^React
 - PHP Framework
+  ^laravel
 - Vlogs
 - Struktur Data Dasar
 - Python
