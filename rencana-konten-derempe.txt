@@ -2,9 +2,11 @@ RENCANA KONTEN DEREMPE
 
 - Javascript
   *framework
-    ^Angular
+    ^Vue
     ^React
 - PHP Framework
   ^laravel
 - Vlogs
+- Struktur Data Dasar
+- Python
 - C++
