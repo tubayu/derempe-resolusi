@@ -3,3 +3,4 @@ RENCANA KONTEN DEREMPE
 - Javascript
 - PHP Framework
 - Vlogs
+- Struktur Data Dasar
